@@ -25,4 +25,4 @@ This will use Grunt to:
 
 ------
 
-[WEARETWOBLOKES](http://twitter.com/wearetwoblokes).
+##### [WEARETWOBLOKES](http://twitter.com/wearetwoblokes)
