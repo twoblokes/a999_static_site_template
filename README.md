@@ -1,6 +1,8 @@
 # Static site template - TwObLoKeS
 
-### This includes Grunt which will run sass and minify images, scripts and css. It will also watch when a file has been changed and automate this for a development environment.
+### This includes Grunt which will run sass and minify images, scripts and css. It will also watch when a file has been changed and automate this for a development environment. 
+
+#### Also using Bourbon.io as our sass mixin library.
 
 ------
 
