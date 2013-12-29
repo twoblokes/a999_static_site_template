@@ -12,9 +12,10 @@
 * Open `package.json`, rename the `name` to clients number and name
 * `npm install`
 * `grunt dev` to watch files (run sass and minify js/css)
-* `grunt` to minify images, js + css
 
 _`npm` requires node.js, click the big fat install button over here [http://nodejs.org/](http://nodejs.org/)_
+
+Run `grunt` to minify images, js + css
 
 ------
 
